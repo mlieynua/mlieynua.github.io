@@ -9,51 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Publications
+### International Conference (Refereed)
+* Miyu Oba, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. "Second Language Acquisition of Neural Language Models." Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Findings long), 2023/07. (acceptance rate: ??) \[paper \| [arXiv](https://arxiv.org/abs/2306.02920)\]
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Dometic Conference
+* 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 言語処理学会第29回年次大会, 4pages, 2023/3. \[ Young Researcher Award (若手奨励賞) \]
+* 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得効率. 第254回自然言語処理研究会, 6pages, 2022/11. \[ Best Paper Award (優秀研究賞) \]
+* 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得効率. 第17回NLP若手の会 シンポジウム (YANS), 2022/08. \[ Encouragement Award(奨励賞) \]
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
+* 2023/04-2024/03: M.S in Engineering, Division of Information Science, NARA Institute of Science and Technology
+  * Research on natural language processing, computational (psycho)linguistics
+* 2018/04-2022/03: B.S. in Foreign studies, Department of French Studies, Nanzan University
+  * Study of linguistics and french culture
+* 2015/04-2018/03: High School Diploma, Meiwa High School
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Work experience
+* 2023/04-: Research Assistant
+  * National Institute of Informatics
+  * Supervisor: [Saku Sugawara](https://penzant.net/)
+  * Survey papers on Linguistics and Cognitive science related to Natural language processing.
+
+* 2022/08-2023/01: Natural Language Processing R&D Engineer
+  * Trustworthy AI team, LINE Corp.
+  * Work on Ethics for NLP
+  * Survey and implement evaluation methods for fairness of language models
+
+* 2020/06-2022/03: Data Scientist
+  * ROX Inc.
+  * Demand forecasting, data analysis in the logistics and retail sectors
+  * Development of applications using forecast data
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Activities
+* 2021/12: Fundamental Information Technology Engineer Examination (FE; 基本情報技術者試験)
+* 2020/12: JPHACKS2020 (Domestic Hackathon) \[ Finalists, NTT Resonant Award & Studio Arcana Award \]
+* 2020/11: Call for Code2020 (International Hackathon) \[ Regional Finalists (日本上位4位)\]
+* 2020/09: TOEIC 855
+* 2020/06: Build＠Mercari (Software Engineer Training Program)

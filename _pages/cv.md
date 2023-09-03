@@ -14,6 +14,7 @@ redirect_from:
 * Miyu Oba, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. "Second Language Acquisition of Neural Language Models." Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Findings long), 2023/07. (acceptance rate: ??) \[paper \| [arXiv](https://arxiv.org/abs/2306.02920)\]
 
 ### Dometic Conference
+* 大羽未悠, 芳賀あかり, 深津聡世, 大関洋平. 言語獲得過程を模倣した文の複雑さに基づくカリキュラム学習. 第18回NLP若手の会 シンポジウム (YANS), 2023/08.
 * 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 言語処理学会第29回年次大会, 4pages, 2023/3. \[ Young Researcher Award (若手奨励賞) \]
 * 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得効率. 第254回自然言語処理研究会, 6pages, 2022/11. \[ IPSJ Yamashita SIG Research Award (山下記念研究賞), Best Paper Award (優秀研究賞) \]
 * 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得効率. 第17回NLP若手の会 シンポジウム (YANS), 2022/08. \[ Encouragement Award (奨励賞) \]

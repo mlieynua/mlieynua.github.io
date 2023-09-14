@@ -43,7 +43,7 @@ redirect_from:
   * Development of applications using forecast data
   
 ## Activities/Talks/Interviews
-* 2023/03: Graduate student interview with Gender Equality Promotion Office \[[page](http://www.naist.jp/gender/contents/message/student_interview/minority_01_en.htmls)\]
+* 2023/03: Graduate student interview with Gender Equality Promotion Office \[[page](http://www.naist.jp/gender/contents/message/student_interview/minority_01_en.html)\]
 * 2023/03: 言語モデルの第二言語獲得 -研究のきっかけとこれから-. 言語処理学会第29回年次大会ワークショップ 深層学習時代の計算言語学. \[[page](http://clml.ism.ac.jp/~daichi/workshop/2023-deepcl/)\]
 * 2021/12: Fundamental Information Technology Engineer Examination (FE; 基本情報技術者試験)
 * 2020/12: JPHACKS2020 (Domestic Hackathon) \[ Finalists, NTT Resonant Award & Studio Arcana Award \]

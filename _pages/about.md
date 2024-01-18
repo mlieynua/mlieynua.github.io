@@ -13,4 +13,4 @@ Miyu Oba (大羽未悠 in Japanese) is a master's student at [Natural Language P
 Keywords: Computational \(psycho\)linguistics, \(Multi\|Cross\)linguality, Language acquisition, Language model \(interpretability\), Language transferability
 
 ## News
-- I am looking for visiting student or internship opportunities !!!
+- I am looking for **visiting student** or **internship opportunities** !!!

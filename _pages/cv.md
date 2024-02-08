@@ -13,6 +13,9 @@ redirect_from:
 ### International Conference (Refereed)
 * <u>Miyu Oba</u>, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. "Second Language Acquisition of Neural Language Models." Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Findings long), 2023/07. \[[paper](https://aclanthology.org/2023.findings-acl.856/) \| [arXiv](https://arxiv.org/abs/2306.02920)\]
 
+### Journal (Refereed)
+大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 自然言語処理 (domestic journal), Volume 31, Number 2, pp.-,  2024/06. (to appear)
+
 ### International Conference (Non-refereed)
 * <u>Miyu Oba</u>, Akari Haga, Akiyo Fukatsu, Yohei Oseki. "BabyLM Challenge: Curriculum learning based on sentence complexity approximating language acquisition", the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, 2023/12. \[[paper](https://aclanthology.org/2023.conll-babylm.25/) \| arXiv\]
 

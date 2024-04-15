@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Detailed CV📄](https://docs.google.com/document/d/115ZlcvwP1xPHFDiRQSWOl2K1vKwX3DEo7miXUOsTQpw/edit?usp=sharing)
 
 ## Publications
 ### International Conference (Refereed)
 * <u>Miyu Oba</u>, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. "Second Language Acquisition of Neural Language Models." Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Findings long), 2023/07. \[[paper](https://aclanthology.org/2023.findings-acl.856/) \| [arXiv](https://arxiv.org/abs/2306.02920)\]
 
 ### Journal (Refereed)
-大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 自然言語処理 (domestic journal), Volume 31, Number 2, pp.-,  2024/06. (to appear)
+* 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 自然言語処理 (domestic journal), Volume 31, Number 2, pp.-,  2024/06. (to appear)
 
 ### International Conference (Non-refereed)
 * <u>Miyu Oba</u>, Akari Haga, Akiyo Fukatsu, Yohei Oseki. "BabyLM Challenge: Curriculum learning based on sentence complexity approximating language acquisition", the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, 2023/12. \[[paper](https://aclanthology.org/2023.conll-babylm.25/) \| arXiv\]
@@ -28,9 +29,11 @@ redirect_from:
 * <u>大羽未悠</u>, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得効率. 第17回NLP若手の会 シンポジウム (YANS), 2022/08. \[ Encouragement Award (奨励賞) \]
 
 ## Education
-* 2023/04-2024/03: M.S in Engineering, Division of Information Science, NARA Institute of Science and Technology
+* 2024/04-present: Doctor of Engineering, Division of Information Science, NARA Institute of Science and Technology
   * Research on natural language processing, computational (psycho)linguistics
-* 2018/04-2022/03: B.S. in Foreign studies, Department of French Studies, Nanzan University
+* 2023/04-2024/03: Master of Engineering, Division of Information Science, NARA Institute of Science and Technology
+  * Research on natural language processing, computational (psycho)linguistics
+* 2018/04-2022/03: Bachelor of Foreign Studies, Department of French Studies, Nanzan University
   * Study of linguistics and french culture
 * 2015/04-2018/03: High School Diploma, Meiwa High School
 
@@ -51,7 +54,7 @@ redirect_from:
   * Development of applications using forecast data
   
 ## Activities/Talks/Interviews
-* 2023/08: 最先端NLP勉強会 \[[slides](https://speakerdeck.com/miyuoba/zui-xian-duan-nlpmian-qiang-hui-2023/)\]
+* 2023/08: Present the highly intersted research ["How to Plant Trees in Language Models: Data and Architectural Effects on the Emergence of Syntactic Inductive Biases"](https://aclanthology.org/2023.acl-long.629/) at 最先端NLP勉強会 \[[slides](https://speakerdeck.com/miyuoba/zui-xian-duan-nlpmian-qiang-hui-2023/)\]
 * 2023/03: Graduate student interview with Gender Equality Promotion Office \[[page](http://www.naist.jp/gender/contents/message/student_interview/minority_01_en.html)\]
 * 2023/03: 言語モデルの第二言語獲得 -研究のきっかけとこれから-. 言語処理学会第29回年次大会ワークショップ 深層学習時代の計算言語学. \[[page](http://clml.ism.ac.jp/~daichi/workshop/2023-deepcl/)\]
 * 2021/12: Fundamental Information Technology Engineer Examination (FE; 基本情報技術者試験)

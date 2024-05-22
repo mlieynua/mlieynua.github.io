@@ -11,19 +11,17 @@ redirect_from:
 [Detailed CV📄](https://docs.google.com/document/d/115ZlcvwP1xPHFDiRQSWOl2K1vKwX3DEo7miXUOsTQpw/edit?usp=sharing)
 
 ## Publications
-### International Conference (Refereed)
-* Akari Haga, Saku Sugawara, Akiyo Fukatsu, <u>Miyu Oba</u>, Hiroki Ouchi, Taro Watanabe, Yohei Oseki. "Modeling Overregularization in Children with Small Language Models." Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024, Findings long), 2024/08 (to appear). \[[paper]() \| [arXiv]()\]
+### International Conference
+* Akari Haga, Saku Sugawara, Akiyo Fukatsu, <u>Miyu Oba</u>, Hiroki Ouchi, Taro Watanabe, Yohei Oseki. "Modeling Overregularization in Children with Small Language Models." Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024, Findings long), 2024/08 (to appear). \[paper \| arXiv\]
+* <u>Miyu Oba</u>, Akari Haga, Akiyo Fukatsu, Yohei Oseki. "BabyLM Challenge: Curriculum learning based on sentence complexity approximating language acquisition", the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, 2023/12. \[[paper](https://aclanthology.org/2023.conll-babylm.25/) \| arXiv\]
 * <u>Miyu Oba</u>, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. "Second Language Acquisition of Neural Language Models." Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Findings long), 2023/07. \[[paper](https://aclanthology.org/2023.findings-acl.856/) \| [arXiv](https://arxiv.org/abs/2306.02920)\]
 
-### Journal (Refereed)
+### Journal
 * 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 自然言語処理 (domestic journal), Volume 31, Number 2, pp.-,  2024/06. (to appear)
 
-### International Conference (Non-refereed)
-* <u>Miyu Oba</u>, Akari Haga, Akiyo Fukatsu, Yohei Oseki. "BabyLM Challenge: Curriculum learning based on sentence complexity approximating language acquisition", the BabyLM Challenge at the 27th Conference on Computational Natural Language Learning, 2023/12. \[[paper](https://aclanthology.org/2023.conll-babylm.25/) \| arXiv\]
-
 ### Dometic Conference
-* <u>大羽未悠</u>, 大関洋平, 深津聡世, 芳賀あかり, 大内啓樹, 渡辺太郎, 菅原朔. 言語モデルの文法知識評価における間接肯定証拠の分析. 言語処理学会第30回年次大会 (to appear), 4pages, 2024/3.　\[paper\]
-* 芳賀あかり, 菅原朔, 深津聡世, <u>大羽未悠</u>, 大内啓樹, 渡辺太郎, 大関洋平. 小規模言語モデルによる子供の過剰一般化のモデリング. 言語処理学会第30回年次大会 (to appear), 4pages, 2024/3.　\[paper\]
+* <u>大羽未悠</u>, 大関洋平, 深津聡世, 芳賀あかり, 大内啓樹, 渡辺太郎, 菅原朔. 言語モデルの文法知識評価における間接肯定証拠の分析. 言語処理学会第30回年次大会, 4pages, 2024/3. \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E10-5.pdf)\]
+* 芳賀あかり, 菅原朔, 深津聡世, <u>大羽未悠</u>, 大内啓樹, 渡辺太郎, 大関洋平. 小規模言語モデルによる子供の過剰一般化のモデリング. 言語処理学会第30回年次大会, 4pages, 2024/3. \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E9-1.pdf)\]
 * <u>大羽未悠</u>, 芳賀あかり, 深津聡世, 大関洋平. 言語獲得過程を模倣した文の複雑さに基づくカリキュラム学習. 第18回NLP若手の会 シンポジウム (YANS), 2023/08.
 * <u>大羽未悠</u>, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 言語処理学会第29回年次大会, 4pages, 2023/3. \[ Young Researcher Award (若手奨励賞) \] \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D3-1.pdf)\]
 * <u>大羽未悠</u>, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得効率. 第254回自然言語処理研究会, 6pages, 2022/11. \[ IPSJ Yamashita SIG Research Award (山下記念研究賞), Best Paper Award (優秀研究賞) \] \[[paper](http://id.nii.ac.jp/1001/00222493/)\]

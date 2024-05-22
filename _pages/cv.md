@@ -12,6 +12,7 @@ redirect_from:
 
 ## Publications
 ### International Conference (Refereed)
+* Akari Haga, Saku Sugawara, Akiyo Fukatsu, <u>Miyu Oba</u>, Hiroki Ouchi, Taro Watanabe, Yohei Oseki. "Modeling Overregularization in Children with Small Language Models." Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024, Findings long), 2024/08 (to appear). \[[paper]() \| [arXiv]()\]
 * <u>Miyu Oba</u>, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. "Second Language Acquisition of Neural Language Models." Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Findings long), 2023/07. \[[paper](https://aclanthology.org/2023.findings-acl.856/) \| [arXiv](https://arxiv.org/abs/2306.02920)\]
 
 ### Journal (Refereed)

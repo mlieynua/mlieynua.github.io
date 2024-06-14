@@ -51,6 +51,10 @@ redirect_from:
   * ROX Inc.
   * Demand forecasting, data analysis in the logistics and retail sectors
   * Development of applications using forecast data
+
+## Grants
+* 2024/04-Present: NAIST Granite Program (PhD Scholarship; JST SPRING)
+* 2023/07: ACL SRW Travel Grants
   
 ## Activities/Talks/Interviews
 * 2023/08: Present the highly intersted research ["How to Plant Trees in Language Models: Data and Architectural Effects on the Emergence of Syntactic Inductive Biases"](https://aclanthology.org/2023.acl-long.629/) at 最先端NLP勉強会 \[[slides](https://speakerdeck.com/miyuoba/zui-xian-duan-nlpmian-qiang-hui-2023/)\]

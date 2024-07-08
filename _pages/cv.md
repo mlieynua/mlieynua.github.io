@@ -54,6 +54,7 @@ redirect_from:
 
 ## Grants
 * 2024/04-Present: NAIST Granite Program (PhD Scholarship; JST SPRING)
+* 2022/04-2024/03: JASSO Scholarship: Full Repayment exemption due to outstanding achievements (特に優れた業績による全額返済免除)
 * 2023/07: ACL SRW Travel Grants
   
 ## Activities/Talks/Interviews

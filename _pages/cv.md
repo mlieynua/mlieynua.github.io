@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Detailed CV📄](https://docs.google.com/document/d/115ZlcvwP1xPHFDiRQSWOl2K1vKwX3DEo7miXUOsTQpw/edit?usp=sharing)
+[Detailed curriculum vitae is here📄](https://docs.google.com/document/d/115ZlcvwP1xPHFDiRQSWOl2K1vKwX3DEo7miXUOsTQpw/edit?usp=sharing)
 
 ## Publications
 ### International Conference
@@ -17,9 +17,10 @@ redirect_from:
 * <u>Miyu Oba</u>, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. "Second Language Acquisition of Neural Language Models." Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Findings long), 2023/07. \[[paper](https://aclanthology.org/2023.findings-acl.856/) \| [arXiv](https://arxiv.org/abs/2306.02920)\]
 
 ### Journal
-* 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 自然言語処理 (domestic journal), Volume 31, Number 2, pp.-,  2024/06. (to appear)
+* 大羽未悠, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 自然言語処理 (domestic journal), Volume 31, Number 2, pp.433-455,  2024/06. \[[paper](https://doi.org/10.5715/jnlp.31.433)\]
 
 ### Dometic Conference
+* 井手佑翼, 西田悠人, <u>大羽未悠</u>, 坂井優介, Justin Vasselli, 渡辺太郎, 上垣外英剛. 大規模言語モデルに適した容認性判断手法の検討. 第260回自然言語処理研究会, 8pages, 2024/06. \[[paper](http://id.nii.ac.jp/1001/00234977/)\]
 * <u>大羽未悠</u>, 大関洋平, 深津聡世, 芳賀あかり, 大内啓樹, 渡辺太郎, 菅原朔. 言語モデルの文法知識評価における間接肯定証拠の分析. 言語処理学会第30回年次大会, 4pages, 2024/3. \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E10-5.pdf)\]
 * 芳賀あかり, 菅原朔, 深津聡世, <u>大羽未悠</u>, 大内啓樹, 渡辺太郎, 大関洋平. 小規模言語モデルによる子供の過剰一般化のモデリング. 言語処理学会第30回年次大会, 4pages, 2024/3. \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E9-1.pdf)\]
 * <u>大羽未悠</u>, 芳賀あかり, 深津聡世, 大関洋平. 言語獲得過程を模倣した文の複雑さに基づくカリキュラム学習. 第18回NLP若手の会 シンポジウム (YANS), 2023/08.
@@ -36,7 +37,12 @@ redirect_from:
   * Study of linguistics and french culture
 * 2015/04-2018/03: High School Diploma, Meiwa High School
 
-## Work experience
+## Experiences
+* 2024/10-: Guest Researcher
+  * University of Göttingen, Germany
+  * Supervisor: [Lisa Beinborn](https://beinborn.eu/)
+  * Cognitive-inspired multilingual language processing
+
 * 2023/04-: Research Assistant
   * National Institute of Informatics
   * Supervisor: [Saku Sugawara](https://penzant.net/)

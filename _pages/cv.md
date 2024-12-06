@@ -32,7 +32,7 @@ redirect_from:
 * <u>大羽未悠</u>, 大関洋平, 深津聡世, 芳賀あかり, 大内啓樹, 渡辺太郎, 菅原朔. 言語モデルの文法知識評価における間接肯定証拠の分析. 言語処理学会第30回年次大会, 4pages, 2024/3. \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E10-5.pdf)\]
 * 芳賀あかり, 菅原朔, 深津聡世, <u>大羽未悠</u>, 大内啓樹, 渡辺太郎, 大関洋平. 小規模言語モデルによる子供の過剰一般化のモデリング. 言語処理学会第30回年次大会, 4pages, 2024/3. \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E9-1.pdf)\]
 * <u>大羽未悠</u>, 芳賀あかり, 深津聡世, 大関洋平. 言語獲得過程を模倣した文の複雑さに基づくカリキュラム学習. 第18回NLP若手の会 シンポジウム (YANS), 2023/08.
-* <u>大羽未悠</u>, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 言語処理学会第29回年次大会, 4pages, 2023/3. \[ <u>Young Researcher Award (若手奨励賞)<\u> \] \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D3-1.pdf)\]
+* <u>大羽未悠</u>, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得. 言語処理学会第29回年次大会, 4pages, 2023/3. \[ <b>Young Researcher Award (若手奨励賞)<\b> \] \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D3-1.pdf)\]
 * <u>大羽未悠</u>, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得効率. 第254回自然言語処理研究会, 6pages, 2022/11. \[ IPSJ Yamashita SIG Research Award (山下記念研究賞),Best Paper Award (優秀研究賞) \] \[[paper](http://id.nii.ac.jp/1001/00222493/)\]
 * <u>大羽未悠</u>, 栗林樹生, 大内啓樹, 渡辺太郎. 言語モデルの第二言語獲得効率. 第17回NLP若手の会 シンポジウム (YANS), 2022/08. \[ Encouragement Award (奨励賞) \]
 

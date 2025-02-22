@@ -12,10 +12,10 @@ redirect_from:
 
 ## Publications
 ### Preprints
-* Yusuke Ide, Yuto Nishida, <u>Miyu Oba</u>, Yusuke Sakai, Justin Vasselli, Hidetaka Kamigaito, Taro Watanabe. "How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments" \[[arXiv](https://arxiv.org/abs/2408.09639)\]
 * Shintaro Ozaki, Kazuki Hayashi, <u>Miyu Oba</u>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe. "BQA: Body Language Question Answering Dataset for Video Large Language Models" \[[arXiv](https://arxiv.org/abs/2410.13206)\]
 
 ### International Conference
+* Yusuke Ide, Yuto Nishida, <u>Miyu Oba</u>, Yusuke Sakai, Justin Vasselli, Hidetaka Kamigaito, Taro Watanabe. "How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments" Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-2025, Main, long), 2025/05 \[paper|[arXiv](https://arxiv.org/abs/2408.09639)\]
 * Akari Haga, Akiyo Fukatsu, <u>Miyu Oba</u>, Arianna Bisazza, Yohei Oseki. "BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency" the BabyLM Challenge at the 28th Conference on Computational Natural Language Learning, 2024/11 \[<b>Outstanding paper award</b>\] \[paper\|[arXiv](https://arxiv.org/abs/2411.09587)\]
 * <u>Miyu Oba</u>, Yohei Oseki, Akiyo Fukatsu, Akari Haga, Hiroki Ouchi, Taro Watanabe, Saku Sugawara. "Can Language Models Induce Grammatical Knowledge from Indirect Evidence?" Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024, Main, long), 2024/11  \[[paper](https://aclanthology.org/2024.emnlp-main.1146/)\|[arXiv](https://arxiv.org/abs/2410.06022)\]
 * Akari Haga, Saku Sugawara, Akiyo Fukatsu, <u>Miyu Oba</u>, Hiroki Ouchi, Taro Watanabe, Yohei Oseki. "Modeling Overregularization in Children with Small Language Models." Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024, Findings, long), 2024/08. \[[paper](https://aclanthology.org/2024.findings-acl.865/)\|arXiv\]
@@ -27,6 +27,7 @@ redirect_from:
 
 
 ### Domestic Conference
+* 芳賀あかり, 深津聡世, <u>大羽未悠</u>, Arianna Bisazza, 大関洋平. 言語モデルの事前学習におけるバリエーションセットの効果. 言語処理学会第31回年次大会, 4pages, 2025/03. \[paper\]
 * 尾崎 慎太郎, 林 和樹, <u>大羽 未悠</u>, 坂井 優介, 上垣外 英剛, 渡辺 太郎. マルチモーダル大規模言語モデルは非言語コミュニケーションを理解しているか？. 第19回NLP若手の会 シンポジウム (YANS), 2024/09. \[<b>Encouragement Award (奨励賞)</b> received to 1st author\]
 * 井手佑翼, 西田悠人, <u>大羽未悠</u>, 坂井優介, Justin Vasselli, 渡辺太郎, 上垣外英剛. 大規模言語モデルに適した容認性判断手法の検討. 第260回自然言語処理研究会, 8pages, 2024/06. \[<b>Young Researcher Award (若手奨励賞)</b> received to 1st author\] \[[paper](http://id.nii.ac.jp/1001/00234977/)\]
 * <u>大羽未悠</u>, 大関洋平, 深津聡世, 芳賀あかり, 大内啓樹, 渡辺太郎, 菅原朔. 言語モデルの文法知識評価における間接肯定証拠の分析. 言語処理学会第30回年次大会, 4pages, 2024/3. \[[paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/E10-5.pdf)\]
@@ -49,23 +50,23 @@ redirect_from:
 * 2024/10-: Guest Researcher
   * University of Göttingen, Germany
   * Supervisor: [Lisa Beinborn](https://beinborn.eu/)
-  * Modeling cognitive processing targeting on
+  * Researching modeling of second language (L2) learners' sentence processing.
 
 * 2023/04-: Research Assistant
   * National Institute of Informatics
   * Supervisor: [Saku Sugawara](https://penzant.net/)
-  * Survey papers on Linguistics and Cognitive science related to Natural language processing
-  * Research on language acquisition of language models inspired by human language acquisition
+  * Surveying papers on Linguistics and Cognitive science related to NLP
+  * Investigating language acquisition in language models inspired by human language acquisition.
 
 * 2022/08-2023/01: Natural Language Processing R&D Engineer
   * Trustworthy AI team, LINE Corp.
-  * Work on Ethics for NLP
-  * Survey and implement evaluation methods for fairness of language models
+  * Worked on ethical considerations in NLP.
+  * Surveyed and implemented evaluation methods for fairness in language models.
 
 * 2020/06-2022/03: Data Scientist
   * ROX Inc.
-  * Demand forecasting, data analysis in the logistics and retail sectors
-  * Development of applications leveraging forecast data
+  * Focused on demand forecasting and data analysis in the logistics and retail sectors.
+  * Developed applications leveraging forecast data for business insights.
 
 ## Grants
 * 2025/04-: Research Fellowship for Young Scientists by Japan Society for the Promotion of Science (PhD Fellowship; DC2)
@@ -75,7 +76,8 @@ redirect_from:
 * 2023/07: ACL SRW Travel Grants
   
 ## Activities/Talks/Interviews
-* 2023/08: Present the highly intersted research ["How to Plant Trees in Language Models: Data and Architectural Effects on the Emergence of Syntactic Inductive Biases"](https://aclanthology.org/2023.acl-long.629/) at 最先端NLP勉強会 \[[slides](https://speakerdeck.com/miyuoba/zui-xian-duan-nlpmian-qiang-hui-2023/)\]
+* 2024/08: Introduce the paper ["Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs"](https://openreview.net/forum?id=MO5PiKHELW) at 最先端NLP勉強会 \[[slides](https://speakerdeck.com/miyuoba/zui-xian-duan-nlpmian-qiang-hui-2024)\]
+* 2023/08: Introduce the paper ["How to Plant Trees in Language Models: Data and Architectural Effects on the Emergence of Syntactic Inductive Biases"](https://aclanthology.org/2023.acl-long.629/) at 最先端NLP勉強会 \[[slides](https://speakerdeck.com/miyuoba/zui-xian-duan-nlpmian-qiang-hui-2023/)\]
 * 2023/03: Graduate student interview with Gender Equality Promotion Office \[[page](http://www.naist.jp/gender/contents/message/student_interview/minority_01_en.html)\]
 * 2023/03: 言語モデルの第二言語獲得 -研究のきっかけとこれから-. 言語処理学会第29回年次大会ワークショップ 深層学習時代の計算言語学. \[[page](http://clml.ism.ac.jp/~daichi/workshop/2023-deepcl/)\]
 * 2021/12: Fundamental Information Technology Engineer Examination (FE; 基本情報技術者試験)

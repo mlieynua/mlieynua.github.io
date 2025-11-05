@@ -13,7 +13,7 @@ redirect_from:
 ## Publications
 
 ### International Conference
-* Shintaro Ozaki, Kazuki Hayashi, <u>Miyu Oba</u>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe. "BQA: Body Language Question Answering Dataset for Video Large Language Models" Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025, Main, short), 2025/07. \[paper\|[arXiv](https://arxiv.org/abs/2410.13206)\] (to appear)
+* Shintaro Ozaki, Kazuki Hayashi, <u>Miyu Oba</u>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe. "BQA: Body Language Question Answering Dataset for Video Large Language Models" Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025, Main, short), 2025/07. \[[paper](https://aclanthology.org/2025.acl-short.10/)\|[arXiv](https://arxiv.org/abs/2410.13206)\]
 * Yusuke Ide, Yuto Nishida, <u>Miyu Oba</u>, Yusuke Sakai, Justin Vasselli, Hidetaka Kamigaito, Taro Watanabe. "How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments" Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-2025, Main, long), 2025/05 \[[paper](https://aclanthology.org/2025.naacl-long.380/)\|[arXiv](https://arxiv.org/abs/2408.09639)\]
 * Akari Haga, Akiyo Fukatsu, <u>Miyu Oba</u>, Arianna Bisazza, Yohei Oseki. "BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency" the BabyLM Challenge at the 28th Conference on Computational Natural Language Learning, 2024/11 \[<b>Outstanding paper award</b>\] \[[paper](https://aclanthology.org/2024.conll-babylm.23/)\|[arXiv](https://arxiv.org/abs/2411.09587)\]
 * <u>Miyu Oba</u>, Yohei Oseki, Akiyo Fukatsu, Akari Haga, Hiroki Ouchi, Taro Watanabe, Saku Sugawara. "Can Language Models Induce Grammatical Knowledge from Indirect Evidence?" Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024, Main, long), 2024/11  \[[paper](https://aclanthology.org/2024.emnlp-main.1146/)\|[arXiv](https://arxiv.org/abs/2410.06022)\]
@@ -45,24 +45,24 @@ redirect_from:
 * 2023/04-2024/03: Master of Engineering, Division of Information Science, NARA Institute of Science and Technology
   * Research on natural language processing, computational (psycho)linguistics
 * 2018/04-2022/03: Bachelor of Foreign Studies, Department of French Studies, Nanzan University
-  * Study of linguistics and french culture
+  * Study of linguistics and French culture
 * 2015/04-2018/03: High School Diploma, Meiwa High School
 
 ## Experiences
 * 2024/10-2025/03: Guest Researcher
   * University of Göttingen, Germany
   * Supervisor: [Lisa Beinborn](https://beinborn.eu/)
-  * Working on modeling of second language (L2) learners' sentence processing.
+  * Working on modeling second language (L2) learners' sentence processing.
 
-* 2023/04-: Research Assistant
+* 2023/04-Present: Research Assistant
   * National Institute of Informatics
   * Supervisor: [Saku Sugawara](https://penzant.net/)
-  * Surveying papers on Linguistics and Cognitive science related to NLP
+  * Surveying literature in linguistics and cognitive science related to NLP
   * Investigating language acquisition in language models inspired by human language acquisition.
 
 * 2022/08-2023/01: Natural Language Processing R&D Engineer
   * Trustworthy AI team, LINE Corp.
-  * Worked on ethical considerations in NLP.
+  * Worked on ethical considerations in natural language processing.
   * Surveyed and implemented evaluation methods for fairness in language models.
 
 * 2020/06-2022/03: Data Scientist
@@ -71,21 +71,23 @@ redirect_from:
   * Developed applications leveraging forecast data for business insights.
 
 ## Grants
-* 2025/04-Present: Research Fellowship for Young Scientists by Japan Society for the Promotion of Science (PhD Fellowship; DC2)
-* 2024/11: Scholarship for Study aboroad by the Association for Natural Language Processing
+* 2025/04-Present: Research Fellowship for Young Scientists, Japan Society for the Promotion of Science (PhD Fellowship; DC2)
+* 2024/11: Scholarship for Study abroad by the Association for Natural Language Processing
 * 2024/04-2025/03: NAIST Granite Program (PhD Fellowship; JST SPRING)
-* 2022/04-2024/03: JASSO Scholarship: Full Repayment exemption due to outstanding achievements (特に優れた業績による全額返済免除)
+* 2022/04-2024/03: JASSO Scholarship: Full repayment exemption due to outstanding achievements (特に優れた業績による全額返済免除)
 * 2023/07: ACL SRW Travel Grants
   
-## Activities/Talks/Interviews
-* 2025/09: invited poster: 博士課程での研究留学という選択肢. 第20回言語処理若手シンポジウム \[[page](http://clml.ism.ac.jp/~daichi/workshop/2023-deepcl/)\]
-* 2025/03: invited talk: 言語モデルの第二言語獲得. 言語処理学会第31回年次大会
-* 2023/03: invited talk: 言語モデルの第二言語獲得 -研究のきっかけとこれから-. 言語処理学会第29回年次大会ワークショップ 深層学習時代の計算言語学. \[[page](http://clml.ism.ac.jp/~daichi/workshop/2023-deepcl/)\]
+## Talks
+* 2025/09: 博士課程での研究留学という選択肢. 第20回言語処理若手シンポジウム \[[page](https://drive.google.com/file/d/14_Cb0TunFRV_cMuL5rQEWXAjjZ9IxXlL/view?usp=sharing)\]
+* 2025/03: 言語モデルの第二言語獲得. 言語処理学会第31回年次大会
+* 2023/03: 言語モデルの第二言語獲得 -研究のきっかけとこれから-. 言語処理学会第29回年次大会ワークショップ 深層学習時代の計算言語学. \[[page](http://clml.ism.ac.jp/~daichi/workshop/2023-deepcl/)\]
+
+## Reviewer
+* 2024, 2025: ARR
+
+## Activities
 * 2021/12: Fundamental Information Technology Engineer Examination (FE; 基本情報技術者試験)
 * 2020/12: Domestic Hackathon: JPHACKS2020 \[Finalists, NTT Resonant Award & Studio Arcana Award\]
 * 2020/11: International Hackathon: Call for Code2020 \[Regional Finalists (日本上位4位)\]
 * 2020/09: TOEIC 855
 * 2020/06: Build＠Mercari (Software Engineer Training Program)
-
-## Reviewer
-* 2024: ARR

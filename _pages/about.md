@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Miyu Oba (大羽未悠 in Japanese) is a 2nd-year PhD student at [Natural Language Processing Lab](https://nlp.naist.jp/en/), [NARA Institute of Science and Technology (NAIST)](http://www.naist.jp/en/) under the supervision of Prof. [Taro Watanabe](https://sites.google.com/site/tarowtnb/). Her research interests include natural language processing, focusing on computational psycholinguistics and language model interpretability.
+Miyu Oba (大羽未悠) is a second-year PhD student at the Natural Language Processing Laboratory, Nara Institute of Science and Technology (NAIST), supervised by Prof. [Taro Watanabe](https://sites.google.com/site/tarowtnb/). Her research interests lie in natural language processing, with a particular focus on computational psycholinguistics and the interpretability of language models.
 
 Keywords: Computational \(psycho\)linguistics, \(Multi\|Cross\)linguality, Language acquisition, Language model \(interpretability\), Language transferability
 
 ## News
-- I am looking for **visiting student** or **internship opportunities**!!!
+I am currently seeking internship opportunities in machine learning research and development, including roles such as Machine Learning Engineer, Applied Scientist, or Research Engineer.

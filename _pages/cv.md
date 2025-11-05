@@ -78,9 +78,9 @@ redirect_from:
 * 2023/07: ACL SRW Travel Grants
   
 ## Talks
-* 2025/09: 博士課程での研究留学という選択肢. 第20回言語処理若手シンポジウム \[[page](https://drive.google.com/file/d/14_Cb0TunFRV_cMuL5rQEWXAjjZ9IxXlL/view?usp=sharing)\]
+* 2025/09: 博士課程での研究留学という選択肢. 第20回言語処理若手シンポジウム \[[poster](https://drive.google.com/file/d/14_Cb0TunFRV_cMuL5rQEWXAjjZ9IxXlL/view?usp=sharing)\]
 * 2025/03: 言語モデルの第二言語獲得. 言語処理学会第31回年次大会
-* 2023/03: 言語モデルの第二言語獲得 -研究のきっかけとこれから-. 言語処理学会第29回年次大会ワークショップ 深層学習時代の計算言語学. \[[page](http://clml.ism.ac.jp/~daichi/workshop/2023-deepcl/)\]
+* 2023/03: 言語モデルの第二言語獲得 -研究のきっかけとこれから-. 言語処理学会第29回年次大会ワークショップ 深層学習時代の計算言語学. \[[slides](http://clml.ism.ac.jp/~daichi/workshop/2023-deepcl/)\]
 
 ## Reviewer
 * 2024, 2025: ARR

@@ -13,6 +13,8 @@ redirect_from:
 [⭐️Detailed curriculum vitae is here](https://drive.google.com/file/d/1PMD8mfUicV9VAEhEaapoMnyyASKctlW2/view?usp=sharing)
 
 ## 📄 Publications
+### Preprint
+* <u>Miyu Oba</u>, Saku Sugawara. "CxMP: A Linguistic Minimal-Pair Benchmark for Evaluating Constructional Understanding in Language Models", \[[arXiv](https://arxiv.org/abs/2602.21978)\]
 
 ### International Conference
 * Shintaro Ozaki, Kazuki Hayashi, <u>Miyu Oba</u>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe. "BQA: Body Language Question Answering Dataset for Video Large Language Models" Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025, Main, short), 2025/07. \[[paper](https://aclanthology.org/2025.acl-short.10/)\|[arXiv](https://arxiv.org/abs/2410.13206)\]

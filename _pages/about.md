@@ -3,8 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "Miyu Oba is a PhD student at NAIST working on natural language processing research."
 description: "Miyu Oba is a PhD student at NAIST working on natural language processing research."
-header:
-  image: "miyu_oba_photo.jpg"
+social_image: "miyu_oba_photo.jpg"
 author_profile: true
 redirect_from: 
   - /about/

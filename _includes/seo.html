@@ -40,6 +40,7 @@
 {% endif %}
 
 {% assign seo_twitter_site = site.twitter.username | default: site.author.twitter | replace: "@", "" %}
+{% assign seo_image = page.social_image | default: page.header.image | default: page.header.overlay_image | default: site.og_image %}
 
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}">
@@ -54,7 +55,7 @@
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 
-{% if seo_twitter_site or seo_author_twitter or page.header.image or site.og_image %}
+{% if seo_twitter_site or seo_author_twitter or seo_image %}
   {% if seo_twitter_site %}
     <meta name="twitter:site" content="@{{ seo_twitter_site }}">
   {% endif %}
@@ -62,12 +63,9 @@
   <meta name="twitter:description" content="{{ seo_description }}">
   <meta name="twitter:url" content="{{ canonical_url }}">
 
-  {% if page.header.image %}
+  {% if seo_image %}
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-  {% elsif site.og_image %}
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
+    <meta name="twitter:image" content="{% if seo_image contains "://" %}{{ seo_image }}{% else %}{{ seo_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
   {% else %}
     <meta name="twitter:card" content="summary">
   {% endif %}
@@ -87,12 +85,8 @@
   {% endif %}
 {% endif %}
 
-{% if page.header.image %}
-  <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% elsif page.header.overlay_image %}
-  <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% elsif site.og_image %}
-  <meta property="og:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
+{% if seo_image %}
+  <meta property="og:image" content="{% if seo_image contains "://" %}{{ seo_image }}{% else %}{{ seo_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
 
 {% if page.date %}

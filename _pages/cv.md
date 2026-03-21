@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-[⚒️Digest curriculum vitae is coming soon]()
+[⭐️ Short CV](https://drive.google.com/file/d/1QcTY01iv4jpb7ddPUHjyxmWR8bbzLEFN/view?usp=sharing)
 
-[⭐️Detailed curriculum vitae is here](https://drive.google.com/file/d/1PMD8mfUicV9VAEhEaapoMnyyASKctlW2/view?usp=sharing)
+[⭐️ Full CV](https://drive.google.com/file/d/1PMD8mfUicV9VAEhEaapoMnyyASKctlW2/view?usp=sharing)
 
 ## 📄 Publications
 ### Preprint

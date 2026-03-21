@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Miyu Oba is a PhD student at NAIST working on natural language processing research."
 author_profile: true
 redirect_from: 
   - /about/

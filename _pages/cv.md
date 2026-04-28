@@ -8,15 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-[⭐️ Short CV](https://drive.google.com/file/d/1QcTY01iv4jpb7ddPUHjyxmWR8bbzLEFN/view?usp=sharing)
+[⭐️ CV](https://drive.google.com/file/d/1QcTY01iv4jpb7ddPUHjyxmWR8bbzLEFN/view?usp=sharing)
 
-[⭐️ Full CV](https://drive.google.com/file/d/1PMD8mfUicV9VAEhEaapoMnyyASKctlW2/view?usp=sharing)
 
 ## 📄 Publications
-### Preprint
-* <u>Miyu Oba</u>, Saku Sugawara. "CxMP: A Linguistic Minimal-Pair Benchmark for Evaluating Constructional Understanding in Language Models", \[[arXiv](https://arxiv.org/abs/2602.21978)\]
-
 ### International Conference
+* <u>Miyu Oba</u>, Saku Sugawara. "CxMP: A Linguistic Minimal-Pair Benchmark for Evaluating Constructional Understanding in Language Models" Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL-2026, Main, long), 2026/07.
 * Shintaro Ozaki, Kazuki Hayashi, <u>Miyu Oba</u>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe. "BQA: Body Language Question Answering Dataset for Video Large Language Models" Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025, Main, short), 2025/07. \[[paper](https://aclanthology.org/2025.acl-short.10/)\|[arXiv](https://arxiv.org/abs/2410.13206)\]
 * Yusuke Ide, Yuto Nishida, <u>Miyu Oba</u>, Yusuke Sakai, Justin Vasselli, Hidetaka Kamigaito, Taro Watanabe. "How to Make the Most of LLMs' Grammatical Knowledge for Acceptability Judgments" Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-2025, Main, long), 2025/05 \[[paper](https://aclanthology.org/2025.naacl-long.380/)\|[arXiv](https://arxiv.org/abs/2408.09639)\]
 * Akari Haga, Akiyo Fukatsu, <u>Miyu Oba</u>, Arianna Bisazza, Yohei Oseki. "BabyLM Challenge: Exploring the Effect of Variation Sets on Language Model Training Efficiency" the BabyLM Challenge at the 28th Conference on Computational Natural Language Learning, 2024/11 \[<b>Outstanding paper award</b>\] \[[paper](https://aclanthology.org/2024.conll-babylm.23/)\|[arXiv](https://arxiv.org/abs/2411.09587)\]
@@ -62,7 +59,7 @@ redirect_from:
 * 2015/04-2018/03: High School Diploma, Meiwa High School
 
 ## 💼 Experiences
-* 2025/09-present: Machine Learning Engineer (Full-time Internship)
+* 2025/09-2026/03: Machine Learning Engineer (Full-time Internship)
   * VLA Team at [Turing Inc.](https://tur.ing/en)
   * Mentor: [Hiroki Teranishi](https://hirokiteranishi.com/)
   * Developing vision-language-action models for autonomous driving.

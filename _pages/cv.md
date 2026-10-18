@@ -23,8 +23,9 @@ redirect_from:
 * <u>Miyu Oba</u>, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. "Second Language Acquisition of Neural Language Models." Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Findings, long), 2023/07. \[[paper](https://aclanthology.org/2023.findings-acl.856/)\|[arXiv](https://arxiv.org/abs/2306.02920)\]
 
 ### Journal
-* <u>Miyu Oba</u>, Yohei Oseki, Akiyo Fukatsu, Akari Haga, Hiroki Ouchi, Taro Watanabe, Saku Sugawara. Inducing Grammatical Knowledge from Indirect Evidence in Language Models. Journal of Natural Language Processing, Volume 33, Issue 1, 2026/03. (to appear) \[[paper]\]
-* Yusuke Ide, Yuto Nishida, Justin Vasselli, <u>Miyu Oba</u>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe. Rethinking the Evaluation Methods of LLMs' Grammatical Knowledge. Journal of Natural Language Processing, Volume 33, Issue 1, 2026/03. (to appear) \[[paper]\]
+* Akari Haga, Saku Sugawara, Akiyo Fukatsu, <u>Miyu Oba</u>, Hiroki Ouchi, Taro Watanabe, Yohei Oseki. Modeling U-shaped Learning Curve in Children with Small Language Models. Journal of Natural Language Processing,, Volume 33, Issue 3, 2026/09. \[[paper](https://doi.org/10.5715/jnlp.33.1116)\] 
+* <u>Miyu Oba</u>, Yohei Oseki, Akiyo Fukatsu, Akari Haga, Hiroki Ouchi, Taro Watanabe, Saku Sugawara. Inducing Grammatical Knowledge from Indirect Evidence in Language Models. Journal of Natural Language Processing, Volume 33, Issue 1, 2026/03. \[[paper](https://doi.org/10.5715/jnlp.33.109)\]
+* Yusuke Ide, Yuto Nishida, Justin Vasselli, <u>Miyu Oba</u>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe. Rethinking the Evaluation Methods of LLMs' Grammatical Knowledge. Journal of Natural Language Processing, Volume 33, Issue 1, 2026/03. \[[paper](https://doi.org/10.5715/jnlp.33.51)\]
 * <u>Miyu Oba</u>, Tatsuki Kuribayashi, Hiroki Ouchi, Taro Watanabe. Second Language Acquisition of Neural Language Models. Journal of Natural Language Processing (JNLP), Volume 31, Issue 2, 2024/06. \[<b>Paper award</b>\] \[[paper](https://doi.org/10.5715/jnlp.31.433)\]
 
 
@@ -59,10 +60,13 @@ redirect_from:
 * 2015/04-2018/03: High School Diploma, Meiwa High School
 
 ## 💼 Experiences
+* 2026/05-2026/08: Research Scientist (Full-time Internship)
+  * IBM research - Tokyo
+  * Conducted LLM post-training (SFT and RL) to improve Japanese instruction-following capabilities.
+
 * 2025/09-2026/03: Machine Learning Engineer (Full-time Internship)
   * VLA Team at [Turing Inc.](https://tur.ing/en)
-  * Mentor: [Hiroki Teranishi](https://hirokiteranishi.com/)
-  * Developing vision-language-action models for autonomous driving.
+  * Developed vision-language-action models for autonomous driving.
 
 * 2024/10-2025/03: Guest Researcher
   * [Human-Centered Data Science group](https://huds.uni-goettingen.de/) at University of Göttingen, Germany
@@ -92,7 +96,7 @@ redirect_from:
   * Built forecasting software for customer demand, including a feature to predict customer volumes and export calendar-based forecasts as PDFs.
 
 ## 💰 Grants
-* 2025/04-Present: Research Fellowship for Young Scientists by Japan Society for the Promotion of Science (PhD Fellowship; DC2)
+* 2025/04-2026/07: Research Fellowship for Young Scientists by Japan Society for the Promotion of Science (PhD Fellowship; DC2)
 * 2024/11: Scholarship for Study abroad by the Association for Natural Language Processing
 * 2024/04-2025/03: NAIST Granite Program (PhD Fellowship; JST SPRING)
 * 2022/04-2024/03: JASSO Scholarship: Full repayment exemption due to outstanding achievements
@@ -108,6 +112,8 @@ redirect_from:
 * EMNLP 2025 BabyLM Workshop
 
 ## 🏆 Awards
+* Outstanding Paper Award
+  * The 64th Annual Meeting of the Association for Computational Linguistics: ACL 2026
 * Paper Award
   * The Association for Natural Language Processing (2025)
 * Outstanding Paper Award
